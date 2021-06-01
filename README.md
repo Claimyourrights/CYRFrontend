@@ -1,1 +1,1 @@
-# CYRFrontend
+# claimyourrights
